@@ -1,0 +1,9 @@
+.navImage {
+    height: 100vh;
+    background-image: url(/assets/images/01\ pexels-recal-media-60217.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
