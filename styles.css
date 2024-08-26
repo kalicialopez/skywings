@@ -1,0 +1,28 @@
+:root {
+    --corePink: #500648;
+    --corePinkFade:#f40096;
+    --corePinkSoft:#fad8ef;
+    --coreMidPink:#b54361;
+    --coreDarkPink:#6a023d;
+    --coreWhite:white;
+}
+
+.navImage {
+    height: 100vh;
+    background-image: url(/images/01\ pexels-recal-media-60217.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.cardpink {
+    background-color: var(--coreMidPink);
+}
+
+h1 {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+}
